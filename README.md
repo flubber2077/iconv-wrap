@@ -1,4 +1,4 @@
-# iconv-wrap
+# iconv-wrap [![NPM version](https://img.shields.io/npm/v/iconv-wordwrap.svg?style=flat)](https://www.npmjs.com/package/iconv-wordwrap) ![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/flubber2077/iconv-wrap)
 
 To install dependencies:
 
