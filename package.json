@@ -1,0 +1,29 @@
+{
+  "name": "iconv-wordwrap",
+  "version": "1.0.2",
+  "author": "Dylan Jordan",
+  "main": "lib/index.js",
+  "devDependencies": {
+    "@types/node": "^20.6.0",
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "description": "Word wrap for Iconv Buffers",
+  "files": [
+    "/lib"
+  ],
+  "keywords": [
+    "iconv",
+    "word-wrap",
+    "break",
+    "newline",
+    "wrap"
+  ],
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "type": "module",
+  "types": "lib/index.d.ts"
+}
